@@ -1,4 +1,4 @@
-class UrlUnEscape < Formula
+class UrlUnescape < Formula
   desc "url-unescape  CLI"
   homepage "https://bitbucket.org/infomaker/"
   url  "https://s3-eu-west-1.amazonaws.com/open-content-artifacts/url-unescape/url-unescape-0.2.tar.gz"
