@@ -1,8 +1,8 @@
 class UrlUnescape < Formula
   desc "url-unescape  CLI"
   homepage "https://bitbucket.org/infomaker/"
-  url  "https://s3-eu-west-1.amazonaws.com/open-content-artifacts/url-unescape/url-unescape-0.3.tar.gz"
-  sha256  "2756b7e953323137e4169f825dfa4e577cc70819b04b0ad95dc42836d7cad98e"
+  url  "https://s3-eu-west-1.amazonaws.com/open-content-artifacts/url-unescape/url-unescape-0.4.tar.gz"
+  sha256  "4687c4e653a9d142331b1e8c4499e5405bbbb45087aeb299fdf870416876a549"
 
   # depends_on "go" => :build
 
